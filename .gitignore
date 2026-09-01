@@ -1,0 +1,22 @@
+# ===== 打包产物（不需要进仓库，exe 发布到 GitHub Releases） =====
+build/
+dist/
+
+# ===== 运行时生成的个人配置（含窗口位置/时区等，勿公开） =====
+desktop_clock_config.json
+
+# ===== 自检输出（截图可能拍到桌面内容，勿提交） =====
+selftest_out/
+
+# ===== Python 缓存 =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# ===== 系统/编辑器文件 =====
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
