@@ -20,7 +20,7 @@
 ## 运行方式
 
 ### 方式一：直接使用（推荐）
-从 [Releases](../../releases) 下载 `桌面时钟.exe`，双击即可运行。无需安装 Python。
+从 [Releases](../../releases) 下载 `DesktopClock.exe`，双击即可运行。无需安装 Python。
 
 ### 方式二：从源码运行
 需要 **Python 3.10+**（Windows 上建议安装 `tzdata` 以提供完整时区数据库）：
